@@ -22,8 +22,6 @@ pages = { X },
 url = { X }
 }
 ```
-+ مشارکت یکسان
-* ehsan.asgari@sharif.edu نویسنده مسئول: احسان الدین عسگری 
 
 <div align=justify dir=rtl>
 <h2>شرح دادگان</h2>
