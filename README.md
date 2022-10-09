@@ -20,7 +20,7 @@
   </li>
 </ul>
 
-<center>![city](https://user-images.githubusercontent.com/93512423/194746402-3a002bec-e965-40a7-9fef-9f41b7d0637d.jpeg)</center>
+![city](https://user-images.githubusercontent.com/93512423/194746402-3a002bec-e965-40a7-9fef-9f41b7d0637d.jpeg)
   
 <h3>مجموعه داده‌ی یزدی-فارسی</h3>
 <ul>
