@@ -20,8 +20,8 @@
   </li>
 </ul>
 
-![city](https://user-images.githubusercontent.com/93512423/194746358-f4021826-75bf-4f7f-b5cb-f81e62b8f25a.png)
-
+<center>![city](https://user-images.githubusercontent.com/93512423/194746402-3a002bec-e965-40a7-9fef-9f41b7d0637d.jpeg)</center>
+  
 <h3>مجموعه داده‌ی یزدی-فارسی</h3>
 <ul>
   <li>اولین منبع، از دیالوگ‌های کتاب یزدی استخراج شده است که شامل ۵۶۱ داده‌ی موازی می‌باشد.</li>
